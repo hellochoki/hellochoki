@@ -1,6 +1,6 @@
 # hellochoki
 
-<h3> About me </h3>
+<h3> 🖐️ About me </h3>
 안녕하세요. 개발자 조기윤입니다.
 
 
@@ -20,9 +20,9 @@ BOB 7th
 
 - Backend
 
+
 - DevOps 
 
 
 <h4> Icons & Badges Reference </h4>
-- https://shields.io
-- https://simpleicons.org
+https://shields.io, https://simpleicons.org
